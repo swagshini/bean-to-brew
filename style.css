@@ -7,15 +7,16 @@
     --bg:#090401;
     --border:.1rem solid rgba(255,255,255,.3);
 }
-
-*{
-    font-family: 'ogelic', serif;
-    margin:0; padding: 0%;;
+* {
+    font-family: 'Sedan SC', serif;
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
-    outline: none; border:none;
+    outline: none;
+    border: none;
     text-decoration: none;
     text-transform: capitalize;
-    transition: .2s linear;
+    transition: 0.2s linear;
 }
 
 html{
