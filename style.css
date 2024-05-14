@@ -336,9 +336,14 @@ section{
     margin:.3rem;
 }
 
-.products .box-container .box .icons a:hover{
-    background:var(--main-color);
+.products .box-container .box:hover{
+    background:#fde4d9;
 }
+
+.products .box-container .box .icons a:hover {
+    background: var(--black);
+}
+
 
 .products .box-container .box .image{
     padding: 2.5rem 0;
